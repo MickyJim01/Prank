@@ -12,6 +12,8 @@ main {
     width: 100vw;
     display: flex;
     background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
 }
 
 button {
