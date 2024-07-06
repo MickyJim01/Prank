@@ -13,7 +13,7 @@ main {
     display: flex;
     background-color: blueviolet;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
 }
 
 button {
