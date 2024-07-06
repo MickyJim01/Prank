@@ -19,3 +19,7 @@ button {
     text-align: center;
     padding-block: auto;
 }
+
+button:active {
+    background-color: rgb(0, 217, 255);
+}
